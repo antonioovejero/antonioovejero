@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Antonio 👋
 
-<!--
-**antonioovejero/antonioovejero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior software engineer at Affirm, working from Granada, Spain. Currently tech lead of the Marketing Communications team.
 
-Here are some ideas to get you started:
+Most of my career has been in fintech and Silicon Valley startups, growing teams along the way... nothing too fancy, just shipping things and helping people ship things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+These days I barely write code by hand. My AI agents do, and I spend most of the day figuring out what to ask them for (and telling other people what to ask theirs). Turns out it's a lot like managing, but the reports never take vacation.
+
+What I'm up to
+PianoFlow: a macOS app to practice piano with a falling-note roll, built from MIDI, MP3 or YouTube. Side project, work in progress.
+[antonioovejero.com](https://antonioovejero.com/): my personal site, static HTML, deployed with GitHub Actions.
+Thinking out loud about AI, engineering teams, fintech, etc.
+Find me
+
+[Website](https://antonioovejero.com/) · [X](https://x.com/antonioovejero_) · [LinkedIn](https://www.linkedin.com/in/antonioovejero)
